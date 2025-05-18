@@ -37,7 +37,7 @@ Diseñar y desarrollar un dashboard de Power BI que presente eficazmente datos f
 
 ## 📷 Capturas del dashboard
 
-![Dashboard Principal](images/dashboard_main.png)
+![Dashboard Principal](Images/dashboard_main.png)
 
 
 ## 💡 Autor
